@@ -1,0 +1,35 @@
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=1360">
+
+		<link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png">
+
+		<link href="css/style.css" rel="stylesheet" type="text/css">		
+
+		<!--Gallery-->
+		<link rel="stylesheet" type="text/css" href="js/slick.css">
+		<link rel="stylesheet" type="text/css" href="js/slick-theme.css">
+		<link rel="stylesheet" type="text/css" href="css/gallery_style.css">
+
+		<!--슬라이드-->
+		<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+		<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+
+	</head>
+	<body>
+		
+		<div id="header">
+			<h1>
+				<a href="index.html"><img src="images/logo/mainlogo.png" alt="main"></a>
+			</h1>
+			</div> <!--header 닫음-->
+			<div id="gnb_wrap">
+				<ul id="gnb">
+					 <li><a href="index2.html">ABOUT</a></li>
+					 <li><a href="index3.html">SERVICE</a></li>
+					 <li><a href="index4.html">PRODUCT</a></li>
+					 <li><a href="index5.html">이용안내</a></li>
+				 </ul> <!--gnb 닫음-->
+			</div>
